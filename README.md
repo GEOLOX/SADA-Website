@@ -1,9 +1,15 @@
-# SADA
+# SADA — GEOLOX
 
 **Antenna design, done differently.**
 
-Coming soon.
+SADA is the AI-native electromagnetic simulator purpose-built for the next
+generation of antenna design. Built for RF teams in defence, space, and
+avionics. UK data-centre and air-gapped deployment options.
+
+**Coming soon.**
+
+Contact — [john.yates@geolox.co.uk](mailto:john.yates@geolox.co.uk)
 
 ---
 
-© 2026 SADA · Electromagnetic Systems
+© 2026 SADA · GEOLOX
