@@ -8,8 +8,6 @@ avionics. UK data-centre and air-gapped deployment options.
 
 **Coming soon.**
 
-Contact — [john.yates@geolox.co.uk](mailto:john.yates@geolox.co.uk)
-
 ---
 
 © 2026 SADA · GEOLOX
